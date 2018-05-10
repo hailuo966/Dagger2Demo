@@ -29,3 +29,5 @@ proguard/
 *.iml
 /app/src/test/
 /app/simulation/
+
+*.bat
